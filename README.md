@@ -19,13 +19,13 @@ I honestly don't know why the flashprint software did this in the first place.
 ## Demonstration
 
 **Before (Native Firmware):**
-![Before Sorting](Images/before.png)
+<img src="Images/before.png" width="200" alt="Before Sorting">
 
 **After (With Proxy):**
-![After Sorting](Images/after.png)
+<img src="Images/after.png" width="200" alt="After Sorting">
 
 **Choosing the Alternative Printer (Your Proxy):**
-![Choosing Proxy from FlashPrint](Images/Choosing Printer.png)
+<img src="Images/Choosing Printer.png" width="200" alt="Choosing Proxy from FlashPrint">
 
 ## Usage
 
