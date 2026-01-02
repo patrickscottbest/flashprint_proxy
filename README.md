@@ -18,13 +18,16 @@ I honestly don't know why the flashprint software did this in the first place.
 
 ## Demonstration
 
-**Before (Native Firmware):**
+**Before (Native Firmware) unorganised list of prints:**
+
 <img src="Images/before.png" width="200" alt="Before Sorting">
 
-**After (With Proxy):**
+**After (With Proxy) now alphabetical:**
+
 <img src="Images/after.png" width="200" alt="After Sorting">
 
 **Choosing the Alternative Printer (Your Proxy):**
+
 <img src="Images/Choosing Printer.png" width="200" alt="Choosing Proxy from FlashPrint">
 
 ## Usage
