@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+.workspace.code-workspace
