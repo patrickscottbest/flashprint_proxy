@@ -24,6 +24,9 @@ I honestly don't know why the flashprint software did this in the first place.
 **After (With Proxy):**
 ![After Sorting](images/after.png)
 
+**Choosing the Alternative Printer (Your Proxy):**
+![Choosing Proxy from FlashPrint](images/Choosing Printer.png)
+
 ## Usage
 
 ### 1. Run the Proxy
