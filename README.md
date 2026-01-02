@@ -2,6 +2,8 @@
 
 This tool acts as a proxy between FlashPrint software and FlashForge Explorer series 3D printers (e.g., Adventurer 3).
 
+It's only job is to intercept the file list onboard the printer and to organise the files alphabetically.
+
 ## Purpose
 
 The primary goal of this script is to fix a usability flaw in the native firmware of these printers where files stored on the internal memory are listed in an unsorted order. This proxy intercepts the file list command (`M661`), sorts the filenames alphabetically, and sends the reordered list back to FlashPrint.
